@@ -94,7 +94,15 @@ IoT개발자 과정 사전학습 리포지토리
  
 - **파이썬** 개발환경 설정
   1. https://www.python.org/ 에서 Download의 `Python 3.1x.x` 버튼 클릭
-  2. 
+  2. Add python.exe to PATH 체크 활성화 후
+  3. Installer > Customize installation 클릭
+  4. Documentation 체크 해제, for all users 체크 활성화 다음
+  5. Advanced Options 에서 Install Python 3.1x for all users 체크
+  6. 경로 변경 후 설치
+    <img width="656" height="415" alt="image" src="https://github.com/user-attachments/assets/e6854630-b024-4e8c-937a-c59ad8abb71a" />
+
+  8. Setup was successful 에서 Disable path length limit 클릭(필수!)
+    <img width="656" height="415" alt="image" src="https://github.com/user-attachments/assets/cde18c85-e926-499e-8193-a877e3322d67" />
 
 
 - 프로그램 개발 개념
