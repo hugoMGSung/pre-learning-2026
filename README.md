@@ -44,19 +44,24 @@ IoT개발자 과정 사전학습 리포지토리
       
     - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cat_November_2010-1a.jpg/960px-Cat_November_2010-1a.jpg" width="400">
     - 이미지와 링크의 차이는 !로 시작하는지 밖에 없음
- 
+    - 웹 브라우저에서 이미지 복사, 붙여넣기 가능
     - <img width="703" height="463" alt="image" src="https://github.com/user-attachments/assets/25e6c2ec-ca8e-43fb-a416-0c1d633823b3" />
 
       
   4. 가로줄
-  
+     ```markdown
      ---
-  5. 코드블럭
-     ```markdown     
      ```
-     - 인라인 코드블럭은 `이렇게`...
+     
+     ---
+     
+  6. 코드블럭
+     ```python
+     print('Hello, Python!')     
+     ```
+     - 인라인 코드블럭은 `백틱`으로 사용가능
   
-  6. 강조 및 밑줄
+  7. 강조 및 밑줄
     ```markdown
     **, ~~, __, html u 태그 사용, i 이탤릭
     ```
