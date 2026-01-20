@@ -93,4 +93,8 @@ IoT개발자 과정 사전학습 리포지토리
   2. 픽픽 - https://picpick.net/
  
 - **파이썬** 개발환경 설정
-  1. 
+  1. https://www.python.org/ 에서 Download의 `Python 3.1x.x` 버튼 클릭
+  2. 
+
+
+- 프로그램 개발 개념
