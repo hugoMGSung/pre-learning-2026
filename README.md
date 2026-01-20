@@ -105,5 +105,7 @@ IoT개발자 과정 사전학습 리포지토리
     <img width="656" height="415" alt="image" src="https://github.com/user-attachments/assets/cde18c85-e926-499e-8193-a877e3322d67" />
 
   9. cmd 또는 powershell 오픈, `python --version` 확인
+ 
+  10. VS Code, Exensions(확장)에서 Python을 검색 후 설치
 
 - 프로그램 개발 개념
