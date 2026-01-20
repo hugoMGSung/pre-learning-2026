@@ -48,4 +48,17 @@ IoT개발자 과정 사전학습 리포지토리
     - <img width="703" height="463" alt="image" src="https://github.com/user-attachments/assets/25e6c2ec-ca8e-43fb-a416-0c1d633823b3" />
 
       
-  4. 
+  4. 가로줄
+  
+     ---
+  5. 코드블럭
+     ```markdown     
+     ```
+     - 인라인 코드블럭은 `이렇게`...
+  
+  6. 강조 및 밑줄
+    ```markdown
+    **, ~~, __, html u 태그 사용, i 이탤릭
+    ```
+    - 문장에서 **강조**와 ~~취소선~~, __강조2__, <u>밑줄</u>, <i>이탤릭</i> 을 표시합니다.
+    
